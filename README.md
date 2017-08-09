@@ -1,32 +1,9 @@
-# bbc-news
-Recreated page from BBC website as learning tool from Udemy.com course
-#### Description
-#### Technologies
-- HTML5
-- CSS3
-
-
 ![BBC News logo](/img/bbc-news-logo.png)
 # BBC News Site
+##### Date(s): 12/12/16
+#### Description
+Attempted to recreate page from BBC News website to work on HTML5 content structure and CSS3 styling
 
-## Issue(s)
-- Issues/problems to solve for client
-
-## Solution(s)
-- High-level proposed/implemented solutions to client's issues/problems
-
-## Technology
-- JavaScript
-- Experess.js
-- AngularJS
-- Node.js
+#### Technologies
 - HTML5
 - CSS3
-- Bootstrap
-- SQL (PostgreSQL)
-
-# Image
-# Title
-#### Client
-#### Description
-#### Technologies
