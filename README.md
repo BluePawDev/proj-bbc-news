@@ -3,7 +3,7 @@
 #### Date(s)
 12/12/16
 ### Description
-Attempted to recreate page from [BBC News](http://www.bbc.com/news) website to work on content structure and styling
+Attempt to recreate page from [BBC News](http://www.bbc.com/news) website to work on content structure and styling
 
 ### Technologies
 - HTML5
